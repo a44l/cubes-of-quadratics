@@ -1,6 +1,4 @@
 # cubes-of-quadratics
-This repository contains our code for the ArXiV submission: 
-> Third Powers of Quadratics are generically Identifiable up to quadratic Rank
-> Alexander Blomenhofer and Mateusz Michalek
+This repository contains code accompanying the arxiv submission [Identifiability for mixtures of centered Gaussians and sums of powers of quadratics](https://arxiv.org/abs/2204.09356).
 
-We verify the base case for an induction proof therein via computation.  
+We verify the base case for an induction proof therein via computation.
